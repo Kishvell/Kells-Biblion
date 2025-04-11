@@ -18,12 +18,13 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "The Lord of the Rings",
             author: "J.R.R. Tolkien",
             image: "images/LOTR.jpeg",
-            description: "A classic fantasy epic that follows the journey of Frodo Baggins as he attempts to destroy the One Ring."
+            description: "The Lord of the Rings is an epic high fantasy novel. Set in Middle-earth, the dark Lord has a created a ring of power to rule them all."
         },
         {
-            title: "Pride and Prejudice",
-            author: "Jane Austen",
-            description: "A witty and romantic novel that explores the complexities of love, marriage, and social class in 19th-century England."
+            title: "The Chronicles of Narnia",
+            author: "C.S. Lewis",
+            image: "images/Narnia.jpeg",
+            description: "The series is set in the fictional realm of Narnia, a fantasy world of magic, mythical beasts, and talking animals."
         },
         {
             title: "To Kill a Mockingbird",
