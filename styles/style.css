@@ -17,9 +17,9 @@ header {
 }
 
 header img {
-    width: 100px;
+    width: 90px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 header span {
