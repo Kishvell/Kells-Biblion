@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "image": "images/LOTR.jpeg",
+            "description": "The Lord of the Rings is an epic high fantasy novel. Set in Middle-earth, the dark Lord has a created a ring of power to rule them all."
+        },
+        {
+            "title": "The Chronicles of Narnia",
+            "author": "C.S. Lewis",
+            "image": "images/Narnia.jpeg",
+            "description": "The series is set in the fictional realm of Narnia, a fantasy world of magic, mythical beasts, and talking animals."
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "description": "A powerful and moving story about racial injustice and childhood innocence in the American South."
+        }
+        // Add more book objects here...
+    ] 
+}
